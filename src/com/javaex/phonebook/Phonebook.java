@@ -81,6 +81,7 @@ public class Phonebook {
 					bw.newLine();
 				}
 				bw.close();
+				break;
 			case 3:
 			case 4:
 			case 5:
