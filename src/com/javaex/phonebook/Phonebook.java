@@ -121,6 +121,8 @@ public class Phonebook {
 			default:
 				System.out.println("[다시 입력해주세요.]");
 			}
+			br.close();
+			sc.close();
 
 		}
 	}
